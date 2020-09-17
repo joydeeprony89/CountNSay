@@ -55,7 +55,6 @@ namespace CountNSay
                     s = ans;
                 }
             }
-
             return s;
         }
     }
